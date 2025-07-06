@@ -1,2 +1,3 @@
 # models
-model til finans
+model til HFT-algo
+
